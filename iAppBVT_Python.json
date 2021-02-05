@@ -1,8 +1,8 @@
 {
     "desired_caps": {
         "platformName": "Android",
-        "deviceName": "<your device name>",
-        "udid": "<your device udid>",
+        "deviceName": "huawei",
+        "udid": "CLB7N18416003031",
         "noReset": "false",
         "automationName": "UiAutomator2",
         "appPackage": "com.appsflyer.androidsampleapp",
